@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 78471,
+  "expoServerNgrokUrl": "https://gy-nih.anonymous.example.exp.direct",
+  "packagerNgrokUrl": "https://packager.gy-nih.anonymous.example.exp.direct",
+  "ngrokPid": 78487,
+  "webpackServerPort": null
+}
